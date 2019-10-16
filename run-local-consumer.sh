@@ -1,4 +1,4 @@
 #!/bin/bash
 
 source local-kafka/bin/activate && \
-python -u local-consumer.py $1
+python3 -u local-consumer.py $1
