@@ -15,7 +15,7 @@ $ docker-compose build
 ```
 
 ```bash
-$ ./create-local-python.py
+$ ./create-local-python.sh
 ```
 
 ## run docker and internal (dockerized) producer and consumer
